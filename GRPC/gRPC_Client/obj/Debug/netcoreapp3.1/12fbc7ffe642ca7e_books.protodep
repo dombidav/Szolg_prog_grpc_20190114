@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1/Books.cs \
+obj\Debug\netcoreapp3.1/BooksGrpc.cs: Protos/books.proto

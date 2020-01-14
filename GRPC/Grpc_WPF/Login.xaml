@@ -1,0 +1,16 @@
+﻿<Window x:Class="Grpc_WPF.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Grpc_WPF"
+        mc:Ignorable="d"
+        Title="Token megadása" Height="95" Width="382" Activated="Window_Activated">
+    <Grid>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBox x:Name="inp_token" MinWidth="200" Margin="10px" KeyDown="Inp_token_KeyDown"/>
+            <Button x:Name="Ok" Content="OK" Click="Ok_Click" Margin="10px" Padding="10px"/>
+            <Button x:Name="Cancel" Content="Mégsem" Click="Cancel_Click" Margin="10px" Padding="10px"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,4 @@
+--Config 2020. 01. 12. 22:38:25--
+	channelprotocol = https
+	channelhost = localhost
+	channelport = 5001

@@ -1,0 +1,7 @@
+D:\repos\VS\SzolgProg_vizsga\ClientLib\bin\Debug\netcoreapp3.1\ClientLib.deps.json
+D:\repos\VS\SzolgProg_vizsga\ClientLib\bin\Debug\netcoreapp3.1\ClientLib.dll
+D:\repos\VS\SzolgProg_vizsga\ClientLib\obj\Debug\netcoreapp3.1\ClientLib.AssemblyInfoInputs.cache
+D:\repos\VS\SzolgProg_vizsga\ClientLib\obj\Debug\netcoreapp3.1\ClientLib.AssemblyInfo.cs
+D:\repos\VS\SzolgProg_vizsga\ClientLib\bin\Debug\netcoreapp3.1\ClientLib.pdb
+D:\repos\VS\SzolgProg_vizsga\ClientLib\obj\Debug\netcoreapp3.1\ClientLib.dll
+D:\repos\VS\SzolgProg_vizsga\ClientLib\obj\Debug\netcoreapp3.1\ClientLib.pdb
